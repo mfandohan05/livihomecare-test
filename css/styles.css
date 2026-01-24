@@ -256,6 +256,11 @@ footer > div > h6 {
     padding-right: 1em;
     max-width: 1024px;
 }
+.footer-logo {
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+}
 @media screen and (min-width: 768px) {
     nav {
         background-color: #FFFDF9;
